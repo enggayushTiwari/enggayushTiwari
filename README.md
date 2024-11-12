@@ -6,16 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enggayushtiwari" alt="enggayushtiwari" /></a> </p>
 
 - 🔭 I’m currently working on [Full Stack Web Development](https://gregarious-taiyaki-b41d0c.netlify.app/)
-
 - 🌱 I’m currently learning **Spring Boot**
-
 - 👯 I’m looking to collaborate on **OpenSource Repositories**
-
 - 🤝 I’m looking for help with **Internships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ayush-tiwari-263a1a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-tiwari-263a1a26b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-tiwari-263a1a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ayush Tiwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
