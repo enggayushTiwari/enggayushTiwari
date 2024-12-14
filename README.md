@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enggayushtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="enggayushtiwari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enggayushtiwari" alt="enggayushtiwari" /></a> </p>
-
 - 🔭 I’m currently working on [Full Stack Web Development](https://gregarious-taiyaki-b41d0c.netlify.app/)
 - 🌱 I’m currently learning **Spring Boot**
 - 👯 I’m looking to collaborate on **OpenSource Repositories**
