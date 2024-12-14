@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [Full Stack Web Development](https://gregarious-taiyaki-b41d0c.netlify.app/)
 - 🌱 I’m currently learning **Spring Boot**
 - 👯 I’m looking to collaborate on **OpenSource Repositories**
-- 🤝 I’m looking for help with **Internships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
