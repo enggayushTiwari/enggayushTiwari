@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enggayushtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="enggayushtiwari" /> </p>
 
 - 🔭 I’m currently working on [Full Stack Web Development](https://gregarious-taiyaki-b41d0c.netlify.app/)
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 Actively Seeking SDE/SWE Roles | Full Stack Developer | SDE Intern @ITJOBXS | VJTI 26
 - 👯 I’m looking to collaborate on **OpenSource Repositories**
 
 <h3 align="left">Connect with me:</h3>
