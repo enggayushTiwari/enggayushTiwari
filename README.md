@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AyushTiwari</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Pre-Final year student at B.Tech in IT at VJTI, Mumbai | Passionate About Software Development, Data Engineering, and Innovation.</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Final year student at B.Tech in IT at VJTI, Mumbai | Passionate About Software Development, Data Engineering, and Innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enggayushtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="enggayushtiwari" /> </p>
 
